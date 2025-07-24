@@ -1,2 +1,2 @@
-# E-Commerce
-A Shopping Web Application
+# Nykaa Fashion 
+A Shopping Application
